@@ -1,1 +1,2 @@
 # myfirst
+*     @global-owner1 @global-owner2
